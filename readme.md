@@ -14,5 +14,4 @@ I'm passionate about life. It is so beautiful and full of bad things...
 ## Classes
 - [Structural Programming (C++)](https://github.com/donikgoxha/Structural-Programming-23-24)
 - [Object-Oriented Programming (C++)](https://github.com/donikgoxha/Object-Oriented-Programming-23-24)
-
 - [Python - Self Paced]()
