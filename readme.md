@@ -5,7 +5,7 @@ I'm passionate about life. It is so beautiful and full of bad things...
 
 - 🌱 Currently learning **Python**.
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/donikgoxha/)
-- 🛠️ Tools: C, C++, Angular, soon to expand
+- 🛠️ Tools: C, C++, UNIX, soon to expand
 
 ## Projects
 - [Personal Page - Repo](https://github.com/donikgoxha/Personal-Website)
