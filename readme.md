@@ -13,8 +13,6 @@ I'm passionate about life. It's so beautiful and full of adventurous things...
 
 Welcome! This is a central README to help you navigate my other repositories. Each project/class is listed below with a brief description and direct link.
 
----
-
 ## Projects
 - [Personal Page - Repository](https://github.com/donikgoxha/Personal-Website)
 - [Personal Page - Webiste](https://donikgoxha.github.io/Personal-Website/)
