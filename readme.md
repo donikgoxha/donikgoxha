@@ -15,6 +15,12 @@ Welcome! This is a central README to help you navigate my other repositories. Ea
 
 ---
 
+## Projects
+- [Personal Page - Repository](https://github.com/donikgoxha/Personal-Website)
+- [Personal Page - Webiste](https://donikgoxha.github.io/Personal-Website/)
+
+---
+
 ## Classes
 
 ### [Structural Programming](https://github.com/donikgoxha/Structural-Programming-24-25)
@@ -22,9 +28,3 @@ Solutions to the problems provided in courses.finki.ukim.mk + some midtrems/exam
 
 ### [Object Oriented Programming](https://github.com/donikgoxha/Object-Oriented-Programming-24-25)
 Solutions to the problems provided in courses.finki.ukim.mk + some midtrems/exams from past years
-
----
-
-## Projects
-- [Personal Page - Repository](https://github.com/donikgoxha/Personal-Website)
-- [Personal Page - Webiste](https://donikgoxha.github.io/Personal-Website/)
