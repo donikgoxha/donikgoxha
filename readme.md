@@ -1,28 +1,39 @@
 # Hi, I'm Donik Goxha! 👋
 
 Welcome to my profile! 🚀  
-I'm passionate about life. It's so beautiful and full of adventurous things...
+I'm passionate about life — it's beautiful and full of adventure.
 
-- 🌱 Currently learning **Python**, **Java**.
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/donikgoxha/)
-- 🛠️ Tools: **C**, **C++**, **UNIX**, **Python** *soon to expand*
-
----
-
-# My GitHub Projects
-
-Welcome! This is a central README to help you navigate my other repositories. Each project/class is listed below with a brief description and direct link.
-
-## Projects
-- [Personal Page - Repository](https://github.com/donikgoxha/Personal-Website)
-- [Personal Page - Webiste](https://donikgoxha.github.io/Personal-Website/)
+- 🌱 Currently learning **Python** and **Java**
+- 💼 [LinkedIn](https://www.linkedin.com/in/donikgoxha/)
+- 🛠️ Tools: **C**, **C++**, **UNIX**, **Python** *(soon to expand)*
 
 ---
 
-## Classes
+# 📚 My GitHub Projects
 
-### [Structural Programming](https://github.com/donikgoxha/Structural-Programming-24-25)
-Solutions to the problems provided in courses.finki.ukim.mk + some midtrems/exams from past years
+This README serves as a central hub to explore my repositories.  
+Each project or class is linked below with a short description.
 
-### [Object Oriented Programming](https://github.com/donikgoxha/Object-Oriented-Programming-24-25)
-Solutions to the problems provided in courses.finki.ukim.mk + some midtrems/exams from past years
+---
+
+## 🚀 Projects
+
+- 🔗 [Personal Website – Repository](https://github.com/donikgoxha/Personal-Website)  
+  Source code for my personal website.
+
+- 🌐 [Personal Website – Live Site](https://donikgoxha.github.io/Personal-Website/)  
+  View the site live in your browser.
+
+---
+
+## 📘 Classes
+
+- 🧱 [Structural Programming](https://github.com/donikgoxha/Structural-Programming-24-25)  
+  Solutions to coursework problems + midterm and exam practice from FINKI.
+
+- 🧠 [Object Oriented Programming](https://github.com/donikgoxha/Object-Oriented-Programming-24-25)  
+  OOP coursework and exam prep, including class-based C++ exercises.
+
+---
+
+Thanks for visiting! 🙏 Feel free to star, fork, or reach out.
