@@ -19,11 +19,11 @@ Each project or class is linked below with a short description.
 - 🌐 [Personal Website – Live Site](https://donikgoxha.github.io/Personal-Website/)  
   View the site live in your browser.
   
-- 🔗 [Personal Website – Repository](https://github.com/donikgoxha/Personal-Website)  
+- 🔗 [Personal Website – Repository](https://github.com/donikgoxha/Personal-Website) 
   Source code for my personal website.
   
-- 🔗 [Authentication System – Repository](https://github.com/donikgoxha/Authentication-System)/n
-  Source code for Information Security Course  
+- 🔗 [Authentication System – Repository](https://github.com/donikgoxha/Authentication-System) 
+  Source code for Information Security Course.
   
 ---
 
