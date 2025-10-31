@@ -22,7 +22,7 @@ Each project or class is linked below with a short description.
 - 🔗 [Personal Website – Repository](https://github.com/donikgoxha/Personal-Website)  
   Source code for my personal website.
   
-- 🔗 [Authentication System – Repository](https://github.com/donikgoxha/Authentication-System)
+- 🔗 [Authentication System – Repository](https://github.com/donikgoxha/Authentication-System)/n
   Source code for Information Security Course  
   
 ---
