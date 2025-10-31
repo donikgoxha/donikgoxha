@@ -16,7 +16,7 @@ Each project or class is linked below with a short description.
 ---
 
 ## 🚀 Projects
-- 🌐 [Personal Website – Live Site](https://donikgoxha.github.io/Personal-Website/)  
+- 🌐 [Personal Website – Live Site](https://donikgoxha.github.io/Personal-Website/) 
   View the site live in your browser.
   
 - 🔗 [Personal Website – Repository](https://github.com/donikgoxha/Personal-Website) 
